@@ -1,7 +1,7 @@
 **** 
 
 
-### Ex. No. :8 CONFIGURING ANALOG PORT TO INTEFACE AN ANALOG SENSOR AND READ THE VALUES USING SERIAL PORT
+#### Ex. No. :8 CONFIGURING ANALOG PORT TO INTEFACE AN ANALOG SENSOR AND READ THE VALUES USING SERIAL PORT
 ## Date: 31-10-2025
 ###  
 ## LEVAKU LAKSHMI MOUNIKA-212223100026
@@ -347,7 +347,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Result :
 
-
+The analog sensor was successfully interfaced with the STM32 Nucleo board, and ADC values were read and displayed through the serial port.
 
 
 ****
